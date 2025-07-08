@@ -61,7 +61,7 @@ A baby learns to walk not by studying physics but through curious, playful attem
 
   * **Status**: Version 2.0 deployed with portable sensor nodes  
   * **Updates**: Added mobile app interface, improved calibration algorithms  
-  * **View at**: curiosityweekends.org/tempro  
+  * **View at**: http://tempro.curiosityweekends.org/  
   * **Next**: Integration with weather forecasting APIs
 
 * ## Humanoid
