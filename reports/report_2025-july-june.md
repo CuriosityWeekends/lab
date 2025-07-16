@@ -65,6 +65,10 @@ Similarly, learning, skill-building, product development, and even running a fac
 - **School Praveshanolsavam**  
   The humanoid robot was used to amuse and welcome children at the School Praveshanolsavam in Kasaragod.
 
+- **STEM Week Talk at KV1 Kasaragod**  
+  Delivered a talk on "STEM Education and Career Opportunities" to students of Kendriya Vidyalaya 1, Kasaragod on June 28.
+  The school has an Atal Tinkering Lab and request us to conduct a workshop on robotics and electronics in the coming months.
+
 ---
 
 ## Side Projects in Progress  
